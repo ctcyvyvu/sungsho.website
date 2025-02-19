@@ -52,8 +52,11 @@ yesButton.addEventListener("click", function() {
             <h1 class="yes-text"> </h1>
             <h1 class="yes-text"> </h1>
             <h1 class="yes-text"> </h1>
+            <h1 class="yes-text"> </h1>
+
             <h1 class="yes-text">₊˚⋆♡̷☆₊我最喜欢taro哥啦っ ̫ •̥⸝⸝ </h1>
             <img src="image/zaiyiqi1.png" alt="拥抱" class="yes-image" width="1280" height="820">
+            <embed height="0" width="0" src="SungSho-end.mp3"></embed>
         </div>
     `;
 

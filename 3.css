@@ -1,5 +1,5 @@
 body {
-    background-color: #f4c33d; 
+    background-color: #fac4d5; 
     text-align: center;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -23,7 +23,8 @@ body {
 /* 文字 */
 h1 {
     font-size: 28px;
-    color: #f4f2df;
+    font-weight: bold;
+    color: #d35b7e;
 }
 
 /* 按钮样式 */
@@ -38,12 +39,12 @@ button {
 }
 
 #yes {
-    background-color: #cb5a34; 
+    background-color: #f17172; 
     color: white;
 }
 
 #no {
-    background-color: #6784b1; 
+    background-color: #b1bce8; 
     color: white;
     position: relative;
 }
@@ -55,7 +56,7 @@ button {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #f4c33d; 
+    background-color: #f7afba; 
     display: flex;
     flex-direction: column;
     align-items: center;
